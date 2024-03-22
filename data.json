@@ -1,0 +1,20 @@
+
+[
+    
+    {"id": "Sivori", "seccion": "Alta", "precio": 9500},
+    {"id": "Sivori", "seccion": "Media", "precio": 18000},
+    {"id": "Sivori", "seccion": "Baja", "precio": 13000},
+    
+    {"id": "Centenario", "seccion": "Alta", "precio": 9000},
+    {"id": "Centenario", "seccion": "Media", "precio": 17000},
+    {"id": "Centenario", "seccion": "Baja", "precio": 12000},
+
+    {"id": "Quintero", "seccion": "Alta", "precio": 18000},
+    {"id": "Quintero", "seccion": "Media", "precio": 28000},
+    {"id": "Quintero", "seccion": "Baja", "precio": 21000},
+
+    {"id": "Belgrano", "seccion": "Alta", "precio": 20000},
+    {"id": "Belgrano", "seccion": "Media", "precio": 30000},
+    {"id": "Belgrano", "seccion": "Baja", "precio": 23000}
+    
+]

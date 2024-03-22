@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+
+
+body{
+    min-height: 100vh;
+    background : linear-gradient(rgba(5,7,12,0.75),
+   rgba(5,7,12,0.75)),
+   url("assets/Monu2.jpg") no-repeat center
+   center fixed;
+   background-size: cover;
+    /*background-image: url("assets/Monu.jpg");
+    background-color: blue;*/
+margin: 0 auto;
+position: absolute;
+top: 50%;
+right: 50%;
+transform: translate(50%, -50%);
+color: white;
+}
+
+body *:not(:empty) {
+    background-color: red;
+    background : rgba(107, 24, 31, 0.99)
+    
+}
+
+
+#resultado,
+    #finalprecio{
+    position:relative;
+    left: 0px; 
+    top: 402px; 
+    display: inline-block;
+    vertical-align: middle;
+    bottom: 0;
+    padding: 5px;
+ 
+
+}
+
+#botones{
+    position: absolute;
+  left: 235px; 
+  top: 712px; 
+}
+
+#botonConfirmar2{
+    position: absolute;
+    left: 260px; 
+    top: 712px; 
+}
+
+#mailsSeleccionados{
+    position: absolute;
+    left: 0px; 
+    top: 830px; 
+}
+
+.CanchaF{
+    width: 500px;
+    height: 350px;
+}
